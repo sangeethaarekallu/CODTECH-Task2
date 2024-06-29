@@ -34,7 +34,7 @@ Key activity:
 2. Add grade: Adds a grade for a specific student.  
 3. Calculate average grade: Calculates the average grade for each student.   
 4. Display grades: Displays all grades for all students, including the average grade.  
- Activities are the core functions of the code, and they work together to create a simple student grade management system.  
+Activities are the core functions of the code, and they work together to create a simple student grade management system.   
 Technology used:  
 Python:
 In the code i used python programming concepts and data structures to create a student grade management system.
